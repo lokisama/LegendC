@@ -1,2 +1,2 @@
 # LegendC
-Legend项目C++版
+Legend C++项目(引擎cocos2d-x 3.16 )
